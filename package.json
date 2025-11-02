@@ -3,7 +3,9 @@
   "author": "OneBusAway <pebble@onebusaway.org>",
   "private": true,
   "keywords": [
-    "pebble-app", "OneBusAway", "OBA"
+    "pebble-app",
+    "OneBusAway",
+    "OBA"
   ],
   "pebble": {
     "sdkVersion": "3",
@@ -59,7 +61,10 @@
       "watchface": false
     },
     "targetPlatforms": [
-      "diorite", "chalk", "basalt"
+      "emery",
+      "diorite",
+      "chalk",
+      "basalt"
     ],
     "capabilities": [
       "location"
